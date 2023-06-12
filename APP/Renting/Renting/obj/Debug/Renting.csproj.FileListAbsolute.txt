@@ -1,0 +1,62 @@
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\bin\Debug\Renting.exe.config
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\bin\Debug\Renting.exe
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\bin\Debug\Renting.pdb
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\bin\Debug\MySql.Data.dll
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\bin\Debug\MySqlConnector.dll
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\bin\Debug\System.Buffers.dll
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\bin\Debug\System.Memory.dll
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\bin\Debug\MySqlConnector.xml
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\bin\Debug\System.Buffers.xml
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\bin\Debug\System.Memory.xml
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\obj\Debug\Renting.csproj.AssemblyReference.cache
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\obj\Debug\Renting.csproj.SuggestedBindingRedirects.cache
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\obj\Debug\Renting.Autentificar.resources
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\obj\Debug\Renting.CrearCuenta.resources
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\obj\Debug\Renting.Index.resources
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\obj\Debug\Renting.Properties.Resources.resources
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\obj\Debug\Renting.csproj.GenerateResource.cache
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\obj\Debug\Renting.csproj.CoreCompileInputs.cache
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\obj\Debug\Renting.csproj.CopyComplete
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\obj\Debug\Renting.exe
+C:\Users\AndresFelipeMarinRod\Documents\FelipeMarin\Renting\Renting\obj\Debug\Renting.pdb
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\bin\Debug\Renting.exe.config
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\bin\Debug\Renting.exe
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\bin\Debug\Renting.pdb
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\bin\Debug\MySql.Data.dll
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\bin\Debug\MySqlConnector.dll
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\bin\Debug\System.Buffers.dll
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\bin\Debug\System.Memory.dll
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\bin\Debug\MySqlConnector.xml
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\bin\Debug\System.Buffers.xml
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\bin\Debug\System.Memory.xml
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\obj\Debug\Renting.csproj.AssemblyReference.cache
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\obj\Debug\Renting.csproj.SuggestedBindingRedirects.cache
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\obj\Debug\Renting.Autentificar.resources
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\obj\Debug\Renting.CrearCuenta.resources
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\obj\Debug\Renting.Index.resources
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\obj\Debug\Renting.Properties.Resources.resources
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\obj\Debug\Renting.csproj.GenerateResource.cache
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\obj\Debug\Renting.csproj.CoreCompileInputs.cache
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\obj\Debug\Renting.csproj.CopyComplete
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\obj\Debug\Renting.exe
+C:\Users\DeivySantiagoChaparr\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\obj\Debug\Renting.pdb
+C:\Users\Usuario\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\obj\Debug\Renting.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\obj\Debug\Renting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\obj\Debug\Renting.exe
+C:\Users\Usuario\Documents\FelipeMarin (1)\FelipeMarin\Renting\Renting\obj\Debug\Renting.pdb
